@@ -74,9 +74,6 @@ npm run dev
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## 🙏 Acknowledgments
 
@@ -87,10 +84,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 When downloading your resume as PDF, ensure you disable header and footer in your browser's print settings for the best results.
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HOTHEAD01TH/free-resume-maker&type=Date)](https://star-history.com/#HOTHEAD01TH/free-resume-maker&Date)
-
----
-
-Made with ❤️ by Zaid for job seekers worldwide!
