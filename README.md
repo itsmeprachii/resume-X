@@ -35,7 +35,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/HOTHEAD01TH/free-resume-maker.git
+git clone https://github.com/itsmeprachii/resume-X.git
 ```
 
 2. Navigate to the project directory:
@@ -75,10 +75,6 @@ npm run dev
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 
-## 🙏 Acknowledgments
-
-- Special thanks to the open-source community and [Github Projects](https://x.com/githubprojects)
-- Inspired by modern recruitment needs and ATS requirements
 
 ## ⚠️ Important Note
 
